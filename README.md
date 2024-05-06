@@ -62,7 +62,7 @@ Reg.No: 212223220035
 
 Client:
 
-``
+```
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -78,7 +78,6 @@ if ack:
     c.close()
 ```
 Server:
-
 ```
 import socket
 s=socket.socket()
@@ -87,9 +86,11 @@ print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())   
 ```
+
 Output:
 
-![image](https://github.com/Hemanthreddy0321/SocketStudy/assets/150005937/e1ef3247-f2b0-41af-b3be-86789315ddae)
+![image](https://github.com/Hemanthreddy0321/SocketStudy/assets/150005937/1418a214-3c5a-4ef9-9d24-e9e3275d3835)
+
 
 
 
