@@ -60,10 +60,6 @@ Socket programming finds applications in various domains, including web developm
 
 
  Program
- 
-Developed by:Hemanth A
-
-Reg.No: 212223220035
 
 CLIENT:
 
