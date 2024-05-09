@@ -94,7 +94,16 @@ s.send("acknowledgement recived from the server".encode())
 
 Output:
 
-![image](https://github.com/Hemanthreddy0321/SocketStudy/assets/150005937/1418a214-3c5a-4ef9-9d24-e9e3275d3835)
+CLIENT
+
+![image](https://github.com/Hemanthreddy0321/SocketStudy/assets/150005937/dc417a73-abce-4209-b5e3-cdcf28c235ac)
+
+SERVER
+
+![image](https://github.com/Hemanthreddy0321/SocketStudy/assets/150005937/dc810935-0840-48f7-9176-c057f99158f9)
+
+
+
 
 
 
