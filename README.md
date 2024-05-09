@@ -1,4 +1,9 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+
+Developed by:Hemanth A
+
+Reg.No: 212223220035
+
 
 ## Aim: 
 To perform a study on Socket Programming
