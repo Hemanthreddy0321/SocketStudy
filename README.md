@@ -60,7 +60,7 @@ Developed by:Hemanth A
 
 Reg.No: 212223220035
 
-Client:
+CLIENT:
 
 ```
 import socket
@@ -77,7 +77,7 @@ if ack:
     print(ack)
     c.close()
 ```
-Server:
+SERVER:
 ```
 import socket
 s=socket.socket()
